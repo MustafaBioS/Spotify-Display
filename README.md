@@ -26,3 +26,6 @@ This is my first ever hardware project, so it's a fun project that looks cool an
 
 ### Bottom
 <img width="1187" height="660" alt="sm_black_bottom" src="https://github.com/user-attachments/assets/866a764f-bd7a-4c65-a394-d9e1060de0b2" />
+
+## Zine
+<img width="540" height="828" alt="A5 - 1 (1)" src="https://github.com/user-attachments/assets/9cf034ad-99e0-43a5-826c-990c41dc2151" />
