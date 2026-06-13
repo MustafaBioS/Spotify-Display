@@ -5,7 +5,7 @@ A Spotify Display on your desk to see what you're listening to on Spotify and na
 - ESP-WROOM-32 DevBoard
 - 16X2 LCD Display
 - I2C LCD Adapter
-- Outemo MX Switches
+- Tactile
 
 ## Bill of Materials
 | **Item** | **Price** | **Link** |
