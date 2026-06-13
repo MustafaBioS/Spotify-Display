@@ -6,7 +6,14 @@ A Spotify Display on your desk to see what you're listening to on Spotify and na
 - 16X2 LCD Display
 - I2C LCD Adapter
 - Outemo MX Switches
-  
+
+## Bill of Materials
+| **Item** | **Price** | **Link** |
+| `PCB Fab` | $9.30 | [Link](https://cart.jlcpcb.com/quote?fileId=08372589eb984a8cb7c02056d0d3d2c9&uuid=d9abbea424484b5f88ba4f5997b21e94&achieveDate=72&eadLink=2&electropolishingOnlyNo=no) |
+| `Tactile Switches` | $2.61 | [Link](https://www.amazon.eg/-/en/gp/product/B0DRGP5733/ref=ewc_pr_img_3?smid=A2DMKAT7ZKLGQN&psc=1) |
+| `LCD 16x2` | $2.93 | [Link](https://www.amazon.eg/-/en/gp/product/B0FD24RG6V/ref=ewc_pr_img_4?smid=A1ZVRGNO5AYLOV&psc=1) |
+| `ESP-WROOM-32` | $8.26 | [Link](https://www.amazon.eg/-/en/gp/product/B0718T232Z/ref=ewc_pr_img_5?smid=A3TF4AIIHFQJ8B&psc=1) |
+
 ## How To Use?
 This project uses ESP32 and the WiFiManager library to connect to the internet, it also requires you to create an app on Spotify in order to view your currently listening, It also uses the SpotifyESP32 library!
 
