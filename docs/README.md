@@ -29,11 +29,14 @@ This is my first ever hardware project, so it's a fun project that looks cool an
 
 ## 3D Model
 
-### Top
-<img width="1187" height="660" alt="sm_black_top (1)" src="https://github.com/user-attachments/assets/37af8bf3-3d04-498d-9f5a-dc302193775b" />
+### Front
+<img width="1317" height="669" alt="image" src="https://github.com/user-attachments/assets/f5d16657-65e4-4ce3-abac-40aedd726309" />
 
-### Bottom
-<img width="1187" height="660" alt="sm_black_bottom" src="https://github.com/user-attachments/assets/866a764f-bd7a-4c65-a394-d9e1060de0b2" />
+### Back
+<img width="1304" height="654" alt="image" src="https://github.com/user-attachments/assets/20eaf22e-7c43-4adc-b592-adce0908ea7a" />
+
+### Top
+<img width="1207" height="743" alt="image" src="https://github.com/user-attachments/assets/6c0cf2a1-f741-48b9-830d-ac959a041f93" />
 
 ## Zine
 <img width="540" height="828" alt="A5 - 1 (1)" src="https://github.com/user-attachments/assets/9cf034ad-99e0-43a5-826c-990c41dc2151" />
