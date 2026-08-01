@@ -1,6 +1,16 @@
 # Spotify Display
 A Spotify Display on your desk to see what you're listening to on Spotify and navigate through songs and even Pause/Play them!
 
+## Resources Used
+### Tutorials
+[Stasis Tutorial](https://stasis.hackclub.com/starter-projects/spotify-display)
+[ESP-32-Wroom Datasheet](https://documentation.espressif.com/esp32-wroom-32_datasheet_en.pdf)
+### Libraries
+[Wifi Manager](https://github.com/tzapu/wifimanager)
+[SpotifyEsp32](https://github.com/FinianLandes/SpotifyEsp32)
+[ArduinoJson](https://arduinojson.org/)
+[LiquidCrystal](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c)  
+
 ## Components
 - ESP-WROOM-32 DevBoard
 - 16X2 LCD Display
